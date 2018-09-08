@@ -11,3 +11,4 @@ def my_select(collection)
   end
    return new_arr
 end
+#what does this have to do with collect? 
