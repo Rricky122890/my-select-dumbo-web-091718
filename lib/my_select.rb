@@ -1,3 +1,10 @@
 def my_select(collection)
- # your code here!
+ 
+  
+ 
+ collection.select |item| { 
+   yield(item) 
+ }
+ else
+ 
 end
